@@ -16,7 +16,6 @@ O dataset foi ligeiramente bagunçado, para se parecer mais com um conjunto de d
 
 ### Dicionário dos dados:
 *dateCrawled - Quando este anúncio foi rastreado pela primeira vez. (Todos os valores de campo são obtidos a partir desta data.);
-
 *name - Modelo e marca do carro;
 *seller - Se o vendedor é particular ou revendedor;
 *offerType - O tipo do anúncio;
