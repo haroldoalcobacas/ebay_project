@@ -36,3 +36,4 @@ O dataset foi ligeiramente bagunçado, para se parecer mais com um conjunto de d
 *postalCode - O código postal da localização do veículo.
 *lastSeenOnline - Quando o anúncio foi visto pela última vez online.
 
+
