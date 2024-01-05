@@ -1,7 +1,7 @@
 # ebay_project
 Projetos de Data Science
 
-# Exploring Ebay Car Sales Data
+# Explorando o Ebay Car Sales Data
 ### (https://github.com/haroldoalcobacas/ebay_project)
 Esse é um projeto guiado, parte do curso Data Analyst em Python, do Dataquest.io
 
